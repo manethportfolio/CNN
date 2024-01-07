@@ -1,5 +1,5 @@
 # CNN-projects
 
-<h1>Weather Classification</h1>
+<p>Weather Classification</p>
 
-<h1>Drowsiness Detection</h1>
+<p>Drowsiness Detection</p>
